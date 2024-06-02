@@ -5,7 +5,7 @@ This script copies metadata, such as creation and modification dates, from files
 
 How to Use the Metadata Copy Script
 Install Dependencies:
-Run: ```pip install pywin32 pyexiftool```
+Run: ```pip install pywin32```
 
 Run the Script:
 ```python3 copy.py```
